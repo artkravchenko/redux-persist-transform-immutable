@@ -1,6 +1,6 @@
 {
   "name": "@artkravchenko/redux-persist-transform-immutable",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "immutable.js transform for redux-persist",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
     "@artkravchenko/remotedev-serialize": "^0.1.9"
   },
   "peerDependencies": {
-    "redux-persist": "^4.0.0",
-    "immutable": ">= 3"
+    "immutable": ">= 3",
+    "redux-persist": "^4.0.0"
   },
   "repository": {
     "type": "git",
