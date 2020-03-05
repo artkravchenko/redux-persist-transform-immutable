@@ -7,7 +7,7 @@
     "test": "echo \"no test specified\" && exit 0"
   },
   "dependencies": {
-    "remotedev-serialize": "^0.1.0"
+    "@artkravchenko/remotedev-serialize": "^0.1.9"
   },
   "peerDependencies": {
     "redux-persist": "^4.0.0",
