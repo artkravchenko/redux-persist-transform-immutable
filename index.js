@@ -1,5 +1,5 @@
 var Immutable = require('immutable')
-var Serialize = require('remotedev-serialize')
+var Serialize = require('@artkravchenko/remotedev-serialize')
 var reduxPersist = require('redux-persist')
 
 module.exports = function (config) {
